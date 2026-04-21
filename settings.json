@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Classonly.aternos.me",
+    "ip": "Classonly.aternos.me:52048",
     "port": 52048,
-    "version": "1.21.11",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
